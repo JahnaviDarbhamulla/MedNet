@@ -5,31 +5,23 @@
 
 
 
-  ![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)
+  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://mednet.netlify.app/)
  
 ## About
-- [ ]                                                                       
-- [ ]   
-- [ ]  
-- [ ]  
+- [ ]  40-80% of medical information provided by healthcare practitioners is forgotten immediately.                                                                     
+- [ ]  The greater the amount of information presented, the lower the proportion correctly recalled.Furthermore, almost half of the information that is remembered is incorrect.
+- [ ]  Clearly, memory for medical information is a prerequisite for good adherence to recommended treatment.
+- [ ]  So we decided to create MedNet that can help you stay connected to your loved one's health and medical care. For any queries please do contact us.
 
 ## Functionalities
-- [ ]   
-- [ ]   
-- [ ]  
-- [ ]  
+### With Our Application you can
+- [ ]   Create Groups with the name of the patient and add family members.
+- [ ]   Send Pictures of Prescriptions and reports.
+- [ ]   Get transcripts of appointments
 
 ## Instructions to run:
 - ```npm install``` 
 - ```npm start```
-
-
-## Project architecture:
-
-
-
-## Preview
-
 
 ## Contributors
 <table>
