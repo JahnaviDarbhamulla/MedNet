@@ -15,12 +15,9 @@
 - [ ]  
 
 ## Instructions to run:
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- ```npm install``` 
+- ```npm start```
+
 
 ## Project architecture:
 
