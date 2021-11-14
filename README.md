@@ -23,6 +23,10 @@
 - ```npm install``` 
 - ```npm start```
 
+## Preview
+https://user-images.githubusercontent.com/76477365/141682823-50ce4948-4cf8-4231-af23-2b39071720e2.mp4
+
+
 ## Contributors
 <table>
 <tr align="center">
