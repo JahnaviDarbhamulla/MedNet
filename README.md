@@ -11,7 +11,7 @@
 - [ ]  40-80% of medical information provided by healthcare practitioners is forgotten immediately.                                                                     
 - [ ]  The greater the amount of information presented, the lower the proportion correctly recalled.Furthermore, almost half of the information that is remembered is incorrect.
 - [ ]  Clearly, memory for medical information is a prerequisite for good adherence to recommended treatment.
-- [ ]  So we decided to create MedNet that can help you stay connected to your loved one's health and medical care. For any queries please do contact us.
+- [ ]  So we decided to create MedNet that can help you stay connected to your loved one's health and medical care.
 
 ## Functionalities
 ### With Our Application you can
